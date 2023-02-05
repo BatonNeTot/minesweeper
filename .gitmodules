@@ -1,0 +1,3 @@
+[submodule "dependencies/Rise"]
+	path = dependencies/Rise
+	url = git@github.com:BatonNeTot/Rise.git
